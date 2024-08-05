@@ -54,7 +54,7 @@ class _MySplashScreenState extends State<MySplashScreen> {
                 textAlign: TextAlign.center,
                 style: TextStyle(
                   color: Colors.black,
-                  fontSize: 40,
+                  fontSize: 16,
                   fontFamily: "Train",
                   letterSpacing: 3,
                 ),
